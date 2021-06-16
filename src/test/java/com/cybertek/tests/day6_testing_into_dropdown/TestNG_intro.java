@@ -21,7 +21,7 @@ public class TestNG_intro {
     @Test(priority = 2)
     public void test2() {
         System.out.println("Running test 2...");
-        String actual = "apple";
+        String actual = "apples";
         String expected = "apples";
 
         Assert.assertTrue(actual.equals(expected));

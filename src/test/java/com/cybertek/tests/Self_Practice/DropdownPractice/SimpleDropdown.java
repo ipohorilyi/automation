@@ -1,4 +1,4 @@
-package com.cybertek.tests.Self_Practice;
+package com.cybertek.tests.Self_Practice.DropdownPractice;
 
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
